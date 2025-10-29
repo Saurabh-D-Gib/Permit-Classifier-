@@ -1,8 +1,8 @@
-# CLustering Countires by Ease of Construction Permits
+# Clustering Countires by Ease of Construction Permits
 ### Unsupervised Machine Learning - K-Means Clustering
 ------------------------------------------------------
 ## Overview
-This project applies **K_means Clustering** to gourp contries based  on their performnace in obtaining construction permits across multiple years.The goal is to identify common patterns among high-performing, medium-performing, and low-performing regions globally.
+This project applies **K_means Clustering** to group contries based  on their performnace in obtaining construction permits across multiple years.The goal is to identify common patterns among high-performing, medium-performing, and low-performing regions globally.
 
 The data includes country scores for:
 - FY2017 — Dealing with construction permits
